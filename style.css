@@ -1,0 +1,36 @@
+h1 {
+    color: darkgreen;
+    text-align: center;
+}
+h2 {
+    color: gold;
+}
+.g{
+    width: 200px;
+    height: 200px;
+}
+.q{
+    
+    color: gold;
+}
+.w{
+    width: 200px;
+    height: 200px;
+}
+.j{
+    color: gold;
+}
+p {
+    color: gold;
+}
+.e{
+    border-left: 10px double darkgreen;
+
+    margin-left: 2px;
+}
+h3{
+    color: darkgreen;
+}
+.z{
+    color: darkgreen;
+}
